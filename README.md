@@ -1,4 +1,4 @@
-[![MasterHead](https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg)]
+![MasterHead](https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">A full stack developer</h3>
 <img  
